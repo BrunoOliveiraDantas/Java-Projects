@@ -1,2 +1,2 @@
 # Java-Projects
-Repositorio voltado para estudos e aperfeiçoamento doJava
+Repositório voltado para estudos e aperfeiçoamento do Java.
